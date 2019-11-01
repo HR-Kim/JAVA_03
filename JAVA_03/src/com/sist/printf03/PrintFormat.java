@@ -25,11 +25,11 @@ public class PrintFormat {
 		
 		
 		
-		System.out.printf("b=%b%n",b);//boolean
-		System.out.printf("b=%d%n",b);
-		System.out.printf("s=%d%n",s);
+		System.out.printf("b=%b%n",b);//b=true
+		System.out.printf("b=%d%n",b);//b=1
+		System.out.printf("s=%d%n",s);//s=2
 
-		System.out.printf("c=%c,%d %n",c,(int)c);
+		System.out.printf("c=%c,%d %n",c,(int)c);//c=A,65 
 		System.out.printf("finger=[%5d]%n",finger);//finger=[   10]
 		System.out.printf("finger=[%-5d]%n",finger);//[10   ]
 		System.out.printf("finger=[%05d]%n",finger);//finger=[00010]

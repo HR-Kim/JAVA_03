@@ -9,7 +9,7 @@ public class Literal01 {
 		float pi = 3.14f;
 		System.out.println("pi="+pi);
 		
-		double rate = 1.618;
+		double rate = 1.618d;
 		System.out.println("rate="+rate);
 		
 		double literD01 = 10.;
