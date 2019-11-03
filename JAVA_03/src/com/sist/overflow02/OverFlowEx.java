@@ -23,11 +23,11 @@ public class OverFlowEx {
 		//overFlow 값에 의미 두지 말것.		
 		System.out.println("sMax+1="+ (short)(sMax+1));
 		System.out.println("------------------------");
-		System.out.println((int)cMin);
-		System.out.println((int)cMax);
-		
-		System.out.println("cMin-1="+ (int)(cMin-1));
-		System.out.println("cMax+1="+ (int)(cMax+1));
+//		System.out.println((int)cMin);
+//		System.out.println((int)cMax);
+//		
+//		System.out.println("cMin-1="+ (int)(cMin-1));
+//		System.out.println("cMax+1="+ (int)(cMax+1));
 		
 
 	}
